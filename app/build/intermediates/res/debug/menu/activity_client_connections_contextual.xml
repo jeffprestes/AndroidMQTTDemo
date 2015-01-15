@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/delete"
+          android:title="@string/delete"
+        >
+        
+    </item>
+    
+
+</menu><!-- From: file:/Users/jprestes/projetos/paho-android-test/app/src/main/res/menu/activity_client_connections_contextual.xml -->
